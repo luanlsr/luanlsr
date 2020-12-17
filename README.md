@@ -21,9 +21,8 @@ Atualmente estudo pelos cursos da Cod3r, Curso em Vídeo, Digital Innovation One
 </p>
 
        
-- 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
        
-- 🎓 I'm majoring in **Bachelor of Information Systems** at CEFET
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas - Faculdade das Américas (FAM)
 
 - 💻 I love **Javascript/Typescript/Node.js** ecosystem
 
