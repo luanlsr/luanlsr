@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **luanlsr/luanlsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Luan da SIlva Ramalho, estudante de desenvolvimento FullStack.
+Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas pela Faculdade das Américas (FAM).
+Atualmente estudo pelos cursos da Cod3r, Curso em Vídeo, Digital Innovation One, e outros cursos de tecnologia pela Udemy.
+
+
+ Linguagens: HTML5, CSS3, JavaScript, PHP
+
+💼 Ferramentas: VSCode, Sublime Text, Laragon, Figma, Photoshop
+
+💌 Se tiver interesse em entrar em contato comigo, confira abaixo os links: ⤵️
+
+    
