@@ -1,6 +1,9 @@
-### Olá 👋
+# Olá, eu sou o Luan! :D
 
-Sou Luan da Silva Ramalho, estudante de desenvolvimento FullStack.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-ramalholsr//)](https://www.linkedin.com/in/luan-ramalholsr//)
+
+
+### Sobre mim
+Sou estudante de desenvolvimento FullStack pela Trybe.
 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas pela Faculdade das Américas (FAM).
-Atualmente estudo pelos cursos da Cod3r, Curso em Vídeo, Digital Innovation One, e outros cursos de tecnologia pela Udemy.
-
+Cursei 2 anos de Engenharia Civil e fui militar da Marinha do Brasil por 9 anos.
