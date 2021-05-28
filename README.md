@@ -1,5 +1,9 @@
 # Hi, I'm Luan! :D
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/216r7uka6mx2divuvq43qvgha)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-ramalholsr//)](https://www.linkedin.com/in/luan-ramalholsr//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white$link=mailto:luan.ramalhosilva@gmail.com)](mailto:luan.ramalhosilva@gmail.com)
 
