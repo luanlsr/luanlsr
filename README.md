@@ -5,9 +5,14 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/216r7uka6mx2divuvq43qvgha)
 
 ---
+## Connect with me. :smiley:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-ramalholsr//)](https://www.linkedin.com/in/luan-ramalholsr//)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white$link=mailto:luan.ramalhosilva@gmail.com)](mailto:luan.ramalhosilva@gmail.com)
+<p>
+<a href="https://github.com/luanlsr"><img src="https://img.shields.io/badge/-luanlsr-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/luan-ramalholsr/"><img src="https://img.shields.io/badge/-luan--ramalholsr-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://www.instagram.com/luan_ramalholsr/?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-luan__ramalholsr-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:luan.ramalhosilva@gmail.com"><img src="https://img.shields.io/badge/-luan.ramalhosilva@gmail.com-black?logo=gmail&style=flat-square"/></a>
+</p>
 
 ---
 
@@ -42,9 +47,6 @@
 
 ---
 
-<a href="https://www.instagram.com/luan_ramalholsr/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;"> </a>
-
----
 
 ### ⚙️ &nbsp;GitHub Analytics
 
