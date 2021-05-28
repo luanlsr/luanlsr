@@ -30,7 +30,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)&nbsp;
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 ![Redux](https://img.shields.io/badge/-Redux-563D7C?style=flat&logo=redux)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-E34F26?style=flat&logo=jest)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=orange)&nbsp;
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -38,7 +38,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 
 ---
 
@@ -54,3 +54,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luanlsr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/luanlsr/count.svg)
