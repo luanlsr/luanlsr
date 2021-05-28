@@ -57,6 +57,6 @@
 
 ---
 
-## Thank you for visiting my profile. You're a gem. :gem:
+## Thank you for visiting my profile. :gem:
 
 ![Visitor Count](https://profile-counter.glitch.me/luanlsr/count.svg)
