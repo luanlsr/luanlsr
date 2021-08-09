@@ -47,7 +47,14 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
   
   <h3>TOOLS</h3>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="35" height="35"/> </a>
+  <a href="https://trello.com/pt-BR" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="35" height="35"/> </a>
+  
+  <h3>DEVOPS</h3>
+  <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
+  <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /> </a>
+    
+   
  
 
 </div>
