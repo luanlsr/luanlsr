@@ -37,6 +37,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> </a> 
+  <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React" height="50"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"     width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
   <a href="#"><img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" /></a>
@@ -47,6 +48,10 @@
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  </a> 
+  
+  <h3>TESTS</h3>
+  <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
+  
   
   <h3>DEVOPS</h3>
   <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
