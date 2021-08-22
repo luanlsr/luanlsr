@@ -51,7 +51,7 @@
   
   <h3>TESTS</h3>
   <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
-  
+  <a href="hhttps://testing-library.com/" target="_blank"> <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="35" /> </a>
   
   <h3>DEVOPS</h3>
   <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
