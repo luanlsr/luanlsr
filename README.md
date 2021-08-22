@@ -53,6 +53,10 @@
   <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
   <a href="https://testing-library.com/" target="_blank"> <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="35" /> </a>
   
+  <h3>DESIGN</h3>
+  <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" /> </a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="RTL" height="35" /> </a>
+  
   <h3>DEVOPS</h3>
   <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
   <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /> </a>
