@@ -55,7 +55,9 @@
   
   <h3>DESIGN</h3>
   <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" /> </a>
-  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="RTL" height="35" /> </a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="Photoshop" height="35" /> </a>
+   <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" height="35" /> </a>
+  
   
   <h3>DEVOPS</h3>
   <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
