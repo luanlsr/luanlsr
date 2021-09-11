@@ -33,7 +33,12 @@
 
 
 <div align="center"> 
-
+ 
+ <h3>LANGUAGES</h3>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+  
   <h3>FRONT-END</h3>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -49,7 +54,7 @@
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  </a> 
+    <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="40" />  </a> 
   
   <h3>TESTS</h3>
   <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
