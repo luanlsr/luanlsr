@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Luan! :D
+<h1>Hi, I'm Luan!</>
 
 ### Spotify Playing 🎧
 
