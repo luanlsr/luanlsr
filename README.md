@@ -43,7 +43,8 @@
   <h3>FRONT-END</h3>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JS"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TS"/> </a>
     <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/> </a> 
   <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React" height="50"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"     width="40" height="40"/> </a>
@@ -51,11 +52,12 @@
   <a href="#"><img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" /></a>
     
   <h3>BACK-END</h3>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/ height="50"> </a>
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="40" />  </a> 
+    <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="30" />  </a> 
+ <a style="padding-right:8px;" href="https://docs.docker.com/get-started/" target="_blank"> <img style="margin: 10px" src="https://duzeru.org/user/pages/03.servicos/01._docker/docker.png" alt="Docker" height="30" />  </a>
   
   <h3>TESTS</h3>
   <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
@@ -79,6 +81,9 @@
   <a href="https://slack.com/intl/pt-br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="35" height="35"/> </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.notion.so/" target="_blank"> 
+    <img src="https://produtive.me/wp-content/uploads/2019/08/notion-logo-no-background.png" alt="Notion" width="40" height="40"/> 
   </a> 
    
  
