@@ -79,6 +79,9 @@
    <h3>TOOLS</h3>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="35" height="35"/> </a>
   <a href="https://trello.com/pt-BR" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="35" height="35"/> </a>
+  <a href="https://www.atlassian.com/br/software/jira" target="_blank"> 
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" alt="Jira" width="40" height="40"/> 
+  </a> 
   <a href="https://slack.com/intl/pt-br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="35" height="35"/> </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
