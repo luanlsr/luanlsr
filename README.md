@@ -38,7 +38,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
-   <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"/> </a>
+ 
   
   <h3>FRONT-END</h3>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -53,6 +53,7 @@
     
   <h3>BACK-END</h3>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/ height="50"> </a>
+ <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
