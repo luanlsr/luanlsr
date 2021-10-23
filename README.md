@@ -58,7 +58,7 @@
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="30" />  </a> 
- 
+ <a style="padding-right:8px;" href="https://socket.io/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/1200/1*tOitxCwTNcS3ESstLylmtg.png" alt="Socket.io" height="30" />  </a> 
   
   <h3>TESTS</h3>
   <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
