@@ -35,9 +35,11 @@
 <div align="center"> 
  
  <h3>LANGUAGES</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/ alt="Javascript"> </a>
+    <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a> 
+    <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/> </a> 
+    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" height="35" /> </a> 
+
  
   
   <h3>FRONT-END</h3>
@@ -61,11 +63,13 @@
  <a style="padding-right:8px;" href="https://socket.io/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/1200/1*tOitxCwTNcS3ESstLylmtg.png" alt="Socket.io" height="30" />  </a> 
   
   <h3>TESTS</h3>
-  <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://symbols.getvecta.com/stencil_25/40_jest.f1b91430ae.png" alt="Jest" height="35" /> </a>
+  <a href="https://jestjs.io/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/640/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="Jest" height="45" /> </a>
   <a href="https://testing-library.com/" target="_blank"> <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="35" /> </a>
   <a href="https://mochajs.org/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" alt="RTL" height="35" /> </a>
   <a href="https://sinonjs.org/" target="_blank"> <img style="margin: 10px" src="https://sinonjs.org/assets/images/logo.png" alt="RTL" height="35" /> </a>
-  
+  <a href="https://docs.pytest.org/en/6.2.x/" target="_blank"> <img style="margin: 10px" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/1599e7e4caeaac6ca1a8d4ace3cefa8a0d160925/68747470733a2f2f6769746875622e636f6d2f7079746573742d6465762f7079746573742f7261772f6d61696e2f646f632f656e2f696d672f7079746573745f6c6f676f5f6375727665732e737667" alt="RTL" height="45" /> </a>
+ 
+ 
   <h3>DESIGN</h3>
   <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" /> </a>
   <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="Photoshop" height="35" /> </a>
