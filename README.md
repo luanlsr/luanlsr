@@ -72,8 +72,10 @@
   <a href="https://testing-library.com/" target="_blank"> <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="35" /> </a>
   <a href="https://mochajs.org/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/482/1*BmORsbtFaWw0lyyfMtYd0Q.png" alt="RTL" height="35" /> </a>
   <a href="https://sinonjs.org/" target="_blank"> <img style="margin: 10px" src="https://sinonjs.org/assets/images/logo.png" alt="RTL" height="35" /> </a>
-  <a href="https://docs.pytest.org/en/6.2.x/" target="_blank"> <img style="margin: 10px" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/1599e7e4caeaac6ca1a8d4ace3cefa8a0d160925/68747470733a2f2f6769746875622e636f6d2f7079746573742d6465762f7079746573742f7261772f6d61696e2f646f632f656e2f696d672f7079746573745f6c6f676f5f6375727665732e737667" alt="RTL" height="45" /> </a>
- 
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="45" /> </a>
+ <a href="https://docs.pytest.org/en/7.1.x/" target="_blank"> <img style="margin: 10px" src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" alt="Pytest" height="45" /> </a>
+ <a href="https://nunit.org/" target="_blank"> <img style="margin: 10px" src="https://pluralsight2.imgix.net/paths/images/nunit-261ab03561.png" alt="NUnit" height="55" /> </a>
+  
  
   <h3>DESIGN</h3>
   <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" /> </a>
