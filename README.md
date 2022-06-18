@@ -12,7 +12,6 @@
 <p>
 <a href="https://github.com/luanlsr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/luan-ramalholsr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/luan_ramalholsr/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:luan.ramalhosilva@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a> 
 </p>
 </div>
@@ -21,7 +20,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a FullStack developer.\
+💡 &nbsp;I'm a FullStack development student at Trybe.\
 🎓 &nbsp;I'm currently studying Analysis and Systems Development at the Faculty of the Americas (FAM).\
 ✉️ &nbsp;You can shoot me an email at luanfswd@gmail.com! I'll try to respond as soon as I can.\
 
