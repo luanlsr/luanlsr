@@ -39,7 +39,7 @@
     <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/> </a> 
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" height="35" /> </a>
  <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" height="45" /> </a>
-
+<a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="35" /> </a>
  
   
   <h3>FRONT-END</h3>
