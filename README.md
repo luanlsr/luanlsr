@@ -124,6 +124,7 @@
 </p>
 
 ---
+  ![Snake animation](https://github.com/luanlsr/luanlsr/blob/output/github-contribution-grid-snake.svg)
 
 ## Thank you for visiting my profile. :gem:
 
