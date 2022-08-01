@@ -21,7 +21,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a FullStack Development.\
-💻 &nbsp;I'm currently working at IEBT Innovation as a Full Stack Developer.\
+💻 &nbsp;I'm currently working at IEBT Innovation as a FullStack Development.\
 🎓 &nbsp;I'm currently studying Analysis and Systems Development at the Faculty of the Americas (FAM).\
 ✉️ &nbsp;You can shoot me an email at luanfswd@gmail.com! I'll try to respond as soon as I can.\
 
