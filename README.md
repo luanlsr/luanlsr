@@ -22,13 +22,12 @@
 
 💡 &nbsp;I'm a FullStack Development.\
 💻 &nbsp;I'm currently working at IEBT Innovation as a FullStack Development.\
-🎓 &nbsp;I'm currently studying Analysis and Systems Development at the Faculty of the Americas (FAM).\
+🎓 &nbsp;I'm currently studying Analysis and Systems Development at the Faculdade das Américas (College of the America).\
 ✉️ &nbsp;You can shoot me an email at luanfswd@gmail.com! I'll try to respond as soon as I can.\
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
-
 
 
 
