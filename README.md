@@ -13,6 +13,7 @@
 <a href="https://github.com/luanlsr" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/luan-ramalholsr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:luan.ramalhosilva@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E?style=for-the-badge&logo=Gmail&logoColor=red" /></a> 
+<a href="https://luanlsr.github.io/luan-portifolio/" target="_blank"><img alt="Gmail" height="30" src="https://www.pngplay.com/wp-content/uploads/9/WWW-PNG-Pic-Background.png" />Portifolio</a>
 </p>
 </div>
 
