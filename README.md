@@ -37,7 +37,7 @@
  <h3>LANGUAGES</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/ alt="Javascript"> </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a> 
-    <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/> </a> 
+    <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50" alt="Java"/> </a> 
     <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" height="35" /> </a>
  <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="C#" height="45" /> </a>
 <a style="padding-right:8px;" href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="35" /> </a>
@@ -58,7 +58,7 @@
  
   <h3>BACK-END</h3>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/ height="50"> </a>
- <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+ <a style="padding-right:8px;" href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="50"/> </a> 
     <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  </a>
     <a style="padding-right:8px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
