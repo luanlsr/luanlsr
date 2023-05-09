@@ -22,8 +22,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a FullStack Development.\
-💻 &nbsp;I'm currently working at IEBT Innovation as a FullStack Development.\
-🎓 &nbsp;I'm currently studying Analysis and Systems Development at the Faculdade das Américas (College of the America).\
+💻 &nbsp;I'm currently working at INFIS Consultoria as a Software Developer C#.\
+🎓 &nbsp;I have a degree in Systems Analysis and Development.\
 ✉️ &nbsp;You can shoot me an email at luanfswd@gmail.com! I'll try to respond as soon as I can.\
 
 ---
