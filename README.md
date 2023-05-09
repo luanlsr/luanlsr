@@ -54,6 +54,7 @@
  <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="NextJS" height="50"/> </a> 
   <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="React" height="50"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"     width="40" height="40"/> </a>
+    <a href="https://styled-components.com/" target="_blank"> <img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/19ca5/sc.png" alt="styled components"     width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
   <a href="#"><img alt="Markdown" title="Markdown" height="28px" src="https://i.imgur.com/eO5z1xV.png" /></a>
     
