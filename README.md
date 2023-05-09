@@ -116,6 +116,10 @@
  <a href="https://www.notion.so/" target="_blank"> 
     <img src="https://produtive.me/wp-content/uploads/2019/08/notion-logo-no-background.png" alt="Notion" width="40" height="40"/> 
   </a> 
+   <a href="https://app.asana.com/" target="_blank"> 
+    <img src="https://avatars.slack-edge.com/2021-11-01/2672890963171_7010e3c61fd59a0e601c_512.png" alt="Notion" width="40" height="40"/> 
+  </a> 
+  
    
  
 
