@@ -65,6 +65,7 @@
  <a style="padding-right:8px;" href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="DotNET" height="40" />  </a> 
     <a style="padding-right:8px;" href="https://expressjs.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="30" />  </a> 
  <a style="padding-right:8px;" href="https://socket.io/" target="_blank"> <img style="margin: 10px" src="https://miro.medium.com/max/1200/1*tOitxCwTNcS3ESstLylmtg.png" alt="Socket.io" height="30" />  </a>
+ <a style="padding-right:8px;" href="[https://socket.io/](https://learn.microsoft.com/pt-br/aspnet/signalr/overview/getting-started/introduction-to-signalr)" target="_blank"> <img style="margin: 10px" src="https://images.ctfassets.net/ee3ypdtck0rk/3tLmcHuiDfOr14Lntlm8lG/edead3af754857409d690681100690e3/icon-tech-signalR.png?w=256&h=256&q=50&fm=png" alt="SignalR" height="30" />  </a>
  
   
   <h3>TESTS</h3>
@@ -76,17 +77,24 @@
  <a href="https://nunit.org/" target="_blank"> <img style="margin: 10px" src="https://pluralsight2.imgix.net/paths/images/nunit-261ab03561.png" alt="NUnit" height="55" /> </a>
  <a href="https://junit.org/junit5/" target="_blank"> <img style="margin: 10px" src="https://junit.org/junit4/images/junit5-banner.png" alt="NUnit" height="30" /> </a>
   
+   <h3>DEVOPS</h3>
+  <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
+  <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /> </a>
+    <a style="padding-right:8px;" href="https://docs.docker.com/get-started/" target="_blank"> <img style="margin: 10px" src="https://duzeru.org/user/pages/03.servicos/01._docker/docker.png" alt="Docker" height="30" />  </a>
+ 
+   <h3>MESSENGER</h3>
+  <a href="https://www.rabbitmq.com/" target="_blank"> <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" height="35" /> </a>
+   </a>
+ 
+ <h3>CLOUD</h3>
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img style="margin: 10px" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" height="35" /> </a>
+   </a>
  
   <h3>DESIGN</h3>
   <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="35" /> </a>
   <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="Photoshop" height="35" /> </a>
    <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"> <img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-2.png" alt="illustrator" height="35" /> </a>
   
-  
-  <h3>DEVOPS</h3>
-  <a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /> </a>
-  <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /> </a>
-    <a style="padding-right:8px;" href="https://docs.docker.com/get-started/" target="_blank"> <img style="margin: 10px" src="https://duzeru.org/user/pages/03.servicos/01._docker/docker.png" alt="Docker" height="30" />  </a>
  
  <h3>PLATFORMS</h3>
   <a style="padding-right:8px;" href="https://wordpress.com/new/plans" target="_blank"> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="Wordpress" height="45" />  </a>
